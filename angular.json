@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",  /* <- add path to css here after installing bootstrap via npm install */
               "src/styles.css"
             ],
             "scripts": [],
